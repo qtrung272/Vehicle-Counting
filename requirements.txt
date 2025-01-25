@@ -1,0 +1,4 @@
+fastapi==0.111.0
+numpy==2.0.0
+opencv_python==4.10.0.84
+ultralytics==8.2.38
